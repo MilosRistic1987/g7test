@@ -1,3 +1,4 @@
 dva
 tri
 cetiri
+pet
